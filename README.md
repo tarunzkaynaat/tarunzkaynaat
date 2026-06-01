@@ -1,10 +1,11 @@
 # Hi there, I'm Tarunpreet Singh 👋
 
-I am an AI and Data Science practitioner specializing in time-series analysis, pattern recognition and quantitative finance. My background bridges the gap between strong business operations and hands-on technical execution, focusing on building practical, data-driven solutions to real-world problems.
+MSc Artificial Intelligence student at Brandenburg University of Technology (BTU Cottbus), with a B.Sc. in Data Science from IIT Madras. I build end-to-end AI systems — from LLM-driven agentic workflows and RAG pipelines deployed on GCP, to custom deep learning architectures with visual explainability layers like Grad-CAM.
+My work sits at the intersection of AI engineering and applied research: designing systems that are not just accurate, but production-ready and interpretable. I am particularly interested in generative AI, natural language processing, and time-series forecasting.
+Open to Werkstudent and internship roles in AI Engineering, ML Engineering, or Applied Research in Germany.
 
 ## 🎓 Education
 * **M.Sc. in Artificial Intelligence** – Brandenburg University of Technology
-* **M.Sc. in Financial Engineering** – WorldQuant University
 * **B.Sc. in Data Science** – Indian Institute of Technology, Madras
 
 ## 🛠️ Technical Focus & Expertise
