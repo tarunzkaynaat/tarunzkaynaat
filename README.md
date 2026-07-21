@@ -9,6 +9,6 @@ Open to Werkstudent and internship roles in applied AI Engineering.
 * **B.Sc. in Data Science** – Indian Institute of Technology, Madras
 
 ### 📬 Connect with Me
-* **LinkedIn:** [tarunzkaynaat](https://linkedin.com/in/aiwithtarunz)
+* **LinkedIn:** [aiwithtarunz](https://linkedin.com/in/aiwithtarunz)
 * **Email:** [tarunz.kaynaat@gmail.com](mailto:tarunz.kaynaat@gmail.com)
 
